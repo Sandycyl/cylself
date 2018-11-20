@@ -1,0 +1,10 @@
+diff --git "a/C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\TortoiseGit\\234D174.tmp\\234-cccaec4-left.txt" "b/D:\\java\\env\\git_repository\\cylself\\234.txt"
+index d800886..0cfdd19 100644
+--- "a/C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\TortoiseGit\\234D174.tmp\\234-cccaec4-left.txt"
++++ "b/D:\\java\\env\\git_repository\\cylself\\234.txt"
+@@ -1 +1,4 @@
++123
++123
++123
+ 123
+\ No newline at end of file
